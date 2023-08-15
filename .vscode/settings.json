@@ -1,0 +1,10 @@
+// settings.json
+
+{
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [
+        ".",
+        "-v",
+        "-s"
+    ]
+}
